@@ -1,23 +1,23 @@
 <h1 align="center">Hello friends, I'm Blago! 👋</h1>
 <h3 align="center">ML Engineering Punk Dreaming of One Day Saving the Oceans with AI</h3>
 
-- 🔭 I’m currently working on [Dolphin Classification w/ Computer Vision](google.com)
+- 🔭 I’m currently working on [Dolphin Classification w/ Computer Vision](https://github.com/blagothebulgarian/dolphin-classification-CV)
 
-- 🌱 I’m currently learning **AI agents**
+- 🌱 I’m currently learning about **AI agents**
 
-- 👯 I’m looking to collaborate on **Anything to do with submarine computer vision**
+- 👯 I’m looking to collaborate on **Anything to do with submarine computer vision or drones**
 
-- 🤝 I’m looking for help with **ccc**
+- 🤝 I’m looking for help with **Creating a simple video editing pipeline application**
 
-- 👨‍💻 My Portfolilo Site [boop.com](boop.com)
+- 👨‍💻 My Portfolilo Site [TBD.com](boop.com)
 
-- 💬 Ask me about **ocean drones**
+- 💬 Ask me about **Ocean drones**
 
 - 📫 How to reach me **blagothebulgarian@gmail.com**
 
-- 📄 Full Resume [beep.com](beep.com)
+- 📄 Full Resume [TBD.com](beep.com)
 
-- ⚡ Fun fact **I'm actually Irish Nooooot**
+- ⚡ Fun fact **I'm actually Irish.....Nooooot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
