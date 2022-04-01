@@ -3,21 +3,21 @@
 
 - 🔭 I’m currently working on [Dolphin Classification w/ Computer Vision](https://github.com/blagothebulgarian/dolphin-classification-CV)
 
+- 👨‍💻 My most recent finished project [State Economic Industry Clustering](https://github.com/blagothebulgarian/State-Industry-Economic-Crisis-Modeling)
+
 - 🌱 I’m currently learning about **AI agents**
 
 - 👯 I’m looking to collaborate on **Anything to do with submarine computer vision or drones**
 
 - 🤝 I’m looking for help with **Creating a simple video editing pipeline application**
 
-- 👨‍💻 My Portfolilo Site [TBD.com](boop.com)
-
 - 💬 Ask me about **Ocean drones**
 
 - 📫 How to reach me **blagothebulgarian@gmail.com**
 
-- 📄 Full Resume [TBD.com](beep.com)
+- 📄 Full Resume [Data Science and Machine Learning](https://github.com/blagothebulgarian/blagothebulgarian/blob/main/Blago%20Resume%20.pdf)
 
-- ⚡ Fun fact **I'm actually Irish.....Nooooot**
+- ⚡ Fun fact **I'm training to run my first 100 miler ultrarun this year**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
