@@ -1,7 +1,7 @@
 <h1 align="center">Hello friends, I'm Blago! 👋</h1>
 <h3 align="center">ML Engineering Punk Dreaming of One Day Saving the Oceans with AI</h3>
 
-- 🔭 I’m currently working on [Dolphin Classification w/ Computer Vision](https://github.com/blagothebulgarian/dolphin-classification-CV)
+- 🐬 I’m currently working on [Dolphin Classification w/ Computer Vision](https://github.com/blagothebulgarian/dolphin-classification-CV)
 
 - 👨‍💻 My most recent finished project [State Economic Industry Clustering](https://github.com/blagothebulgarian/State-Industry-Economic-Crisis-Modeling)
 
@@ -17,7 +17,7 @@
 
 - 📄 Full Resume [Data Science and Machine Learning](https://github.com/blagothebulgarian/blagothebulgarian/blob/main/Blago%20Resume%20.pdf)
 
-- ⚡ Fun fact **I'm training to run my first 100 miler ultrarun this year**
+- ⚡ Fun fact **I'm training to run my first 100 miler ultra this year! 🏃‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
